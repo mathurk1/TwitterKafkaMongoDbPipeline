@@ -1,4 +1,4 @@
-# TwitterKafkaMongoDdPipeline
+# TwitterKafkaMongoDbPipeline
 
 In this project I have setup a simple data pipeline using Kafka. I have a single cluster - single broker running on an Ubuntu box in the Google Cloud Platfrom.
 
